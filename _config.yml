@@ -1,5 +1,5 @@
 logo: # Turner's
-title: Welcome to the Turner household!
+title: Welcome to the Turner household
 description: > # this means to ignore newlines until "baseurl:"
   Just a landing page to say high and thanks for visiting
 permalink: ':title/'
@@ -7,7 +7,7 @@ permalink: ':title/'
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: TP.mp4 # add banner video. Add your video file to the folder video
+video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: # add banner title
 banner-desc: # add banner description
 
@@ -28,7 +28,7 @@ dribbble_url:  # add url link
 facebook_url:  # add url link
 
 # Disqus
-discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
+discus_identifier: T # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
